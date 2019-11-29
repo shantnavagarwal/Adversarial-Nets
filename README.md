@@ -2,5 +2,3 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shantnavagarwal/Adversarial-Nets/blob/master/Adversarial_Nets.ipynb)
 
 [Report.pdf](https://github.com/shantnavagarwal/Adversarial-Nets/blob/master/Final_Report.pdf)
-
-https://docs.google.com/viewer?url=${https://github.com/shantnavagarwal/Adversarial-Nets/blob/master/Final_Report.pdf}
